@@ -36,6 +36,7 @@ Run the script:
 
 Bash
 python main.py
+
 👨‍💻 Author
 Umer Rasheed
 
